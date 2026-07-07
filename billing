@@ -1,0 +1,25 @@
+# Car Garage Billing System (Python + SQL)
+
+A **Car Garage Billing System** developed using **Python** and **SQL** to simplify the management of automobile service centers. This application helps garage owners efficiently manage customer records, vehicle details, service history, billing, and payment transactions through a user-friendly interface.
+
+## Features
+
+* Customer and vehicle registration
+* Service and repair record management
+* Automatic bill generation with cost calculation
+* SQL database integration for secure data storage
+* Search, update, and delete customer records
+* Payment tracking and billing history
+* Clean and modular Python code
+
+## Technologies Used
+
+* **Python**
+* **SQL (MySQL)**
+* **DBMS** for database management
+
+## Purpose
+
+The project is designed to reduce manual paperwork, improve billing accuracy, and provide an efficient way to manage day-to-day garage operations. It demonstrates the integration of Python programming with SQL databases to build a practical desktop application.
+
+This project is suitable for students, beginners, and developers looking to learn CRUD operations, database connectivity, and billing system development using Python.
